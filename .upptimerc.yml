@@ -1,5 +1,6 @@
 owner: upvado # Your GitHub organization or username, where this repository lives
 repo: status.upvado.com # The name of this repository
+assignees: rickdaalhuizen90
 
 sites:
   - name: Website
@@ -13,14 +14,16 @@ status-website:
   cname: status.upvado.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: ocean
   name: Upvado
   introTitle: "**Upvado Software Solutions** Real-Time Status"
-  introMessage: "Welcome to our live status page. Here you can monitor the uptime and performance of Upvado's key services and websites. We are committed to transparency and providing reliable services to our users."
+  introMessage: "Here you can monitor the uptime and performance of Upvado's key services and websites."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
