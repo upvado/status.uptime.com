@@ -12,7 +12,7 @@ sites:
 status-website:
   cname: upvado.com
   # baseUrl: /your-repo-name
-  logoUrl: https://upvado.com/images/logo.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upvado
   introTitle: "**Upvado Software Solutions** Real-Time Status"
   introMessage: "Welcome to our live status page. Here you can monitor the uptime and performance of Upvado's key services and websites. We are committed to transparency and providing reliable services to our users."
