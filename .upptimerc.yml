@@ -10,7 +10,7 @@ sites:
     url: https://upvado.com
 
 status-website:
-  cname: status.upvado.com
+  cname: upvado.com
   # baseUrl: /your-repo-name
   logoUrl: https://upvado.com/images/logo.png
   name: Upvado
