@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.upvado.com.ico",
     "slug": "demo",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 874,
-    "timeDay": 874,
-    "timeWeek": 874,
-    "timeMonth": 874,
-    "timeYear": 874,
+    "uptime": "41.87%",
+    "uptimeDay": "41.87%",
+    "uptimeWeek": "41.87%",
+    "uptimeMonth": "41.87%",
+    "uptimeYear": "41.87%",
+    "time": 836,
+    "timeDay": 836,
+    "timeWeek": 836,
+    "timeMonth": 836,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2025-03-01": 0
+      "2025-03-02": 81,
+      "2025-03-01": 329
     }
   },
   {
